@@ -18,3 +18,5 @@
  - File: 6-puts2.c
 ### 7. Winning is only half of it. Having fun is the other half
  - File: 7-puts_half.c
+### 8. Arrays are not pointers
+ - File: 8-print_array.c
