@@ -20,3 +20,5 @@
  - File: 7-puts_half.c
 ### 8. Arrays are not pointers
  - File: 8-print_array.c
+### 9. strcpy
+ - 9-strcpy.c
