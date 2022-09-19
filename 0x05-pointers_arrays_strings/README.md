@@ -16,3 +16,5 @@
  - File: 5-rev_string.c
 ### 6. Half the lies they tell about me aren't true
  - File: 6-puts2.c
+### 7. Winning is only half of it. Having fun is the other half
+ - File: 7-puts_half.c
