@@ -14,3 +14,5 @@
  - File: 4-print_rev.c
 ### 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
  - File: 5-rev_string.c
+### 6. Half the lies they tell about me aren't true
+ - File: 6-puts2.c
