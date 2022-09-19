@@ -12,3 +12,5 @@
  - File: 3-puts.c
 ### 4. I can only go one way. I've not got a reverse gear
  - File: 4-print_rev.c
+### 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
+ - File: 5-rev_string.c
