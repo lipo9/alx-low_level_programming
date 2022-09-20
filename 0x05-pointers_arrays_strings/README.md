@@ -22,3 +22,6 @@
  - File: 8-print_array.c
 ### 9. strcpy
  - 9-strcpy.c
+### 10. Great leaders are willing to sacrifice the numbers to save the people.
+### Poor leaders sacrifice the people to save the numbers
+ - File: 100-atoi.c
