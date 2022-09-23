@@ -18,3 +18,13 @@
  - File: 6-cap_string.c
 ### 7. Mozart composed his music not for the elite, but for everybody
  - File: 7-leet.c
+### 8. rot13
+ - File: 100-rot13.c
+### 9. Numbers have life; they're not just symbols on paper
+ - File: 101-print_number.c
+### 10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
+ - File: 102-magic.c
+### 11. It is the addition of strangeness to beauty that constitutes the romantic character in art
+ - File: 103-infinite_add.c
+### 12. Noise is a buffer, more effective than cubicles or booth walls
+ - File: 104-print_buffer.c
