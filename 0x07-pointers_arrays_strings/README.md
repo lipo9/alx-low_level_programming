@@ -17,3 +17,7 @@
  - File: 7-print_chessboard.c
 ### 7. The line of life is a ragged diagonal between duty and desire
  - File: 8-print_diagsums.c
+### 8. Double pointer, double fun
+ - 100-set_string.c
+### 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
+ - 101-crackme_password
