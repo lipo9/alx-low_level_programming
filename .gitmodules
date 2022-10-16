@@ -1,3 +1,3 @@
 [submodule "0x11-printf"]
 	path = 0x11-printf
-	url = git@github.com:lipo9/printf.git
+	url = https://github.com/lipo9/printf.git
