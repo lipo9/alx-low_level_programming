@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-
 /**
  * print_list - prints all the elements of a list_t list
  * @h: a pointers to a list of type list_t
