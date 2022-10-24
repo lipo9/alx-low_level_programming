@@ -21,5 +21,6 @@ typedef struct listint_s
 /* all created functions are functions declared bellow */
 int _putchar(char c);
 size_t print_listint(const listint_t *h);
+size_t listint_len(const listint_t *h);
 
 #endif /* LISTS_H */
