@@ -10,7 +10,7 @@ Write a function that converts a binary number to an  `unsigned int`.
     -   there is one or more chars in the string  `b`  that is not  `0`  or  `1`
     -   `b`  is  `NULL`
     -   File:  `0-binary_to_uint.c`
-    
+
 ### 1. 1
 Write a function that prints the binary representation of a number.
 -   Prototype:  `void print_binary(unsigned long int n);`
