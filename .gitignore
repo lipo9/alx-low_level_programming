@@ -1,0 +1,6 @@
+*.out
+*.o
+tests/
+__pycache__/
+*.pyc
+*.pyo
